@@ -8,14 +8,10 @@ The included samples represent how to use Java AWS Lambda functions as Alexa Ski
 The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
 link below for more details):
 
-- HelloWorld: a simple skill that repeats Hello World! on user input
-- SpaceGeek : a simple skill that responds to the user with a space fact.
-- Session: a simple skill that asks for your favorite color, then repeats it back to you using session attributes.
 - MinecraftHelper : a simple skill that responds to the user's recipe queries with formulas.
 - WiseGuy : a skill that tells knock knock jokes.
 - HistoryBuff : a skill that gives historical information that happened on a user provided day.
 - Savvy Consumer : a skill that looks up a category on Amazon and returns the best selling products.
-- TidePooler : a skill that looks up tide information for various cities.
 - ScoreKeeper : a skill that can keep score of a game.
 
 ## Usage
