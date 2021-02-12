@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "TellMeAJokeIntent"
+    },
+     {
+      "intent": "TellMeAJokeLIntent"
+    },
+    {
+      "intent": "WhosThereIntent"
+    },
+    {
+      "intent": "TellMeTheFoxIntent"
+    },
+    {
+      "intent": "SetupNameWhoIntent",
+      "slots":[
+        {
+          "name": "SetupName",
+          "type": "LIST_OF_SETUP_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

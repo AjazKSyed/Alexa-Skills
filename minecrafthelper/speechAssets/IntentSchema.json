@@ -1,0 +1,33 @@
+{
+  "intents": [
+    {
+      "intent": "RecipeIntent",
+      "slots": [
+        {
+          "name" : "Item",
+          "type": "LIST_OF_ITEMS"
+        }
+      ]
+    },
+	{
+		"intent": "CheatsIntent",
+		"slots": [
+		{
+			"name" : "Code",
+			"type" : "LIST_OF_CODES"
+		
+		}
+		]
+	},
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+   
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
